@@ -1,5 +1,10 @@
-fdsjklfsdjkfksdjflsd
-fdskfnsdjkfsdf
-dsfjsdkfhdsjkfhsdjkfsd
-fsdklfjsdkfjksdfjksdjflsd
-fdfjsdkjfklsd
+#include<stdio.h>
+void main(){
+
+printf("chat function");
+ for(i=0;i<2 ; i++){
+     if(i){
+      print();
+      }
+}
+}
