@@ -6,7 +6,49 @@ printf("chat function");
  for(i=0;i<2 ; i++){
      if(i)
       print();
+
+#include<stdio.h>
+void main(){
+
+printf("chat function");
+ for(i=0;i<2 ; i++){
+     if(i){
+      print();
+      }
+}
+}
+#include<stdio.h>
+void main(){
+
+printf("chat function");
+ for(i=0;i<2 ; i++){
+     if(i){
+      print();
+      }
+}
+}#include<stdio.h>
+void main(){
+
+printf("chat function");
+ for(i=0;i<2 ; i++){
+     if(i){
+      print();
+      }
+}
+}#include<stdio.h>
+void main(){
+
+printf("chat function");
+ for(i=0;i<2 ; i++){
+     if(i){
+      print();
+      }
+}
+}
+
+
       
 }
+
 }
 
